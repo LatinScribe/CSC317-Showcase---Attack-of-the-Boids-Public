@@ -60,7 +60,7 @@ In the Textbook (Fundamentals of Computer Graphics, 4th Edition), if you keep re
 - main.cpp - Animation file (you can play with global variables here)
 - CMakeList.txt - basically just A8, but with some changes
 - Readme.md - You're reading it right now!
-- piece.mp4 - Demo of project
+- piece.mp4 - Demo of project (or see this youtube video: https://youtu.be/5OGj3mlQiI4)
 
 Note: Other files are essentially unchanged from A8 starter code so you can see how it fits in. 
 
