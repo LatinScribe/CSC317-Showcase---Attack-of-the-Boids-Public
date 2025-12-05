@@ -1,0 +1,7 @@
+build*
+.*.un~
+.DS_Store
+.*.swp
+
+solution/
+.cache/
