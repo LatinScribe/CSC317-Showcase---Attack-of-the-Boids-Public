@@ -1,4 +1,3 @@
-// filepath: d:/4th Year - University of Toronto/CSC317/CSC317-Mass-Spring-System/src/boid.cpp
 #include "boid.h"
 
 void Boid::set_target(const Eigen::Vector3d& target)
