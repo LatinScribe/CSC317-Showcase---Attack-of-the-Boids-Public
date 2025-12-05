@@ -11,7 +11,7 @@
 
 ### Compilation
 
-1. clone this github:
+1. clone this github: `git clone --recursive https://github.com/LatinScribe/CSC317-Showcase---Attack-of-the-Boids-Public.git`
 
   Starting in the root directory, issue:  
   ```bash
