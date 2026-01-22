@@ -1,9 +1,11 @@
 # Title: Attack of the Boids
 
-**Author:** Henry Chen - chenhe33 - 1008909308  
+**Author:** Henry "TJ" Chen
 **Augmented:** A8 (Mass-springs)
 
 ---
+
+# The full showcase can be found at: https://www.dgp.toronto.edu/~joonho/courses/csc317-2025-09/showcase/
 
 ## How to run the code
 
