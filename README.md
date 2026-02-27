@@ -3,10 +3,17 @@
 **Author:** Henry "TJ" Chen
 **Augmented:** A8 (Mass-springs)
 
+
+This was my [entry](https://www.dgp.toronto.edu/~joonho/courses/csc317-2025-09/showcase/08/) into the [2025-2026 U of T Computer Graphics Showcase](https://www.dgp.toronto.edu/~joonho/courses/csc317-2025-09/showcase/)
+
+It was a fun experience to be featured!
+
+## Description of Project
+This project demonstrates the emergent behavior of flocking, where the motion of a group member (called a *boid*) in relation to just a few of its closest nieghbours can be used to exihbit *coordinated goal-driven motion*. It is implemented in a computer graphics context, with a full custom made modeling/shading/rendering pipeline. 
+
+<img width="377" height="231" alt="image" src="https://github.com/user-attachments/assets/b3092456-27f2-4033-9343-6439fef65117" />
+
 ---
-
-# The full showcase can be found at: https://www.dgp.toronto.edu/~joonho/courses/csc317-2025-09/showcase/
-
 ## How to run the code
 
 > Note: This is basically just the regular instructions for A8. These are the instructions to compile on Windows - which I've tested. For other platforms, follow the usual assignment instructions (see A1) and it should still work.
@@ -44,7 +51,7 @@ The other default viewer toggles should generally still work as in A8. Use scrol
 ![Program demo](./images/Usage.png)
 ---
 
-## Description of Project
+## How I came up with the idea:
 
 In the Textbook (Fundamentals of Computer Graphics, 4th Edition), if you keep reading Chapter 16 past the assigned readings (from A8), you will come accross section 16.7 which describes animating *Groups of Objects*. Specifically, we focus the emergent behavior of flocking, where the motion of a group member (called a *boid*) in relation to just a few of its closest nieghbours can be used to exihbit *coordinated goal-driven motion* (Reynolds, 1987). A copy of the original paper can be found on the DCS website: https://www.cs.toronto.edu/~dt/siggraph97-course/cwr87/
 
